@@ -122,9 +122,9 @@ Please refer to our project page for more qualitative visualizations.
 [![Video demo](https://img.youtube.com/vi/A6-W55VZeK0/0.jpg)](https://www.youtube.com/watch?v=A6-W55VZeK0)
 
 ## Further Information
-Also check out some interesting concurrent works in CVPR 2020 on bridging the gap between 2D and 3D implicit functions.
+Check out some interesting concurrent works also appearing in **CVPR 2020** on bridging the gap between 2D observations and 3D implicit functions.
 - [Zakharov et. al. - Autolabeling 3D Objects with Differentiable Rendering of SDF Shape Priors](https://arxiv.org/abs/1911.11288)
 - [Niemeyer et. al. - Differentiable Volumetric Rendering: Learning Implicit 3D Representations without 3D Supervision](https://arxiv.org/abs/1912.07372)
-- [Jiang et. al. - SDFDiff: Differentiable Rendering of Signed Distance Fields for 3D Shape Optimization](https://arxiv.org/1912.07109)
-- [Li et. al. - FroDO: From Detections to 3D Objects](https://arxiv.org/2005.05125)
+- [Jiang et. al. - SDFDiff: Differentiable Rendering of Signed Distance Fields for 3D Shape Optimization](https://arxiv.org/abs/1912.07109)
+- [Li et. al. - FroDO: From Detections to 3D Objects](https://arxiv.org/abs/2005.05125)
 
