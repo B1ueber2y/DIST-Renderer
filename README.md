@@ -1,7 +1,7 @@
 # DIST - Differentiable Sphere Tracing
 [**Paper**](http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_DIST_Rendering_Deep_Implicit_Signed_Distance_Function_With_Differentiable_Sphere_CVPR_2020_paper.pdf) | [**Project Page**](http://b1ueber2y.me/projects/DIST-Renderer/) <br>
 
-<img src="media/dist-optimization-300.gif" width="300"/>
+<img src="media/teaser.png" width="600"/>
 
 This repository contains the full implementation of the paper:
 
