@@ -1,0 +1,13 @@
+pip install OpenEXR==1.3.2
+pip install scikit-image==0.15.0
+pip install plyfile==0.7
+pip install trimesh==3.4.3
+pip install tqdm==4.33.0
+pip install opencv-python==4.1.0.25
+pip install pyyaml
+pip install pyglet==1.4.2
+pip install py3nvml==0.2.3
+pip install https://github.com/majimboo/py-mathutils/archive/2.78a.zip
+pip install numba==0.46.0
+pip install torch_scatter==1.3.2
+pip install easydict==1.9

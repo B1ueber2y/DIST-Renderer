@@ -1,0 +1,15 @@
+light_azimuth_degree_highbound: 360
+light_azimuth_degree_lowbound: 0
+light_dist_highbound: 20
+light_dist_lowbound: 8
+light_elevation_degree_highbound: 90
+light_elevation_degree_lowbound: -90
+light_energy_mean: 2
+light_energy_std: 2
+light_env_energy_highbound: 1.05
+light_env_energy_lowbound: 1.0
+light_env_energy_lowbound_without_point: 1.0
+light_num_highbound: 6
+light_num_lowbound: 1
+truncation_param_std: 0.1
+truncation_param_bound: 0.2

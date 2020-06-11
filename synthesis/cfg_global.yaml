@@ -1,0 +1,9 @@
+shapenet_dir: data/ShapeNetCore.v2
+sun2012pascal_dir: data/SUN2012pascalformat
+blender_dir: install/blender-2.71-linux-glibc211-x86_64/blender
+
+path_to_view_file: data/view_distribution/chair.txt
+
+num_worker_rendering: 8
+num_worker_cropping: 24
+num_worker_compositing: 24
