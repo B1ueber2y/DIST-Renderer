@@ -51,7 +51,7 @@ You can download the train/test splits of [DeepSDF](https://github.com/facebookr
 ```
 cd deepsdf && sh init.sh && cd ..
 ```
-To quickly download all the demo data and models, run:
+To quickly download all the demo data (~53 MB) and models (~236 MB), run:
 ```
 bash download_all.sh
 ```
