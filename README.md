@@ -119,7 +119,7 @@ The visualization results will be stored in `vis/demo_lighting`.
 Please refer to our project page for more qualitative visualizations.
 
 ## Youtube Demo (click on the image preview)
-[![Video demo](https://img.youtube.com/vi/A6-W55VZeK0/0.jpg)](https://www.youtube.com/watch?v=A6-W55VZeK0)
+[![Video demo](https://img.youtube.com/vi/KjfNS1mnqoM/0.jpg)](https://www.youtube.com/watch?v=KjfNS1mnqoM)
 
 ## Further Information
 Check out some interesting concurrent works also appearing in **CVPR 2020** on bridging the gap between 2D observations and 3D implicit functions.
